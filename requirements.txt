@@ -1,4 +1,4 @@
 streamlit 
-phidata
-openai
+openai==0.28
 google-search-results
+duckduckgo_search
